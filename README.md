@@ -1,5 +1,7 @@
 <b>Paper-1 Scientific Reports( SCIE-Q1) Springer Nature<br>
 https://www.nature.com/articles/s41598-025-06758-4<br>
+Original Paper Copy: [paper-1.pdf](https://github.com/user-attachments/files/24358241/paper-1.pdf)
+
 <b>Dataset-1 (GAN-input)<br>
 https://ieee-dataport.org/documents/shrimpview-versatile-dataset-shrimp-detection-and-recognition<br>
 <b>Dataset-2 (underwater videos)<br>
