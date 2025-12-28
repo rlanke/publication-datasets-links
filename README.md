@@ -8,4 +8,6 @@ https://ieee-dataport.org/documents/underwater-shrimp-monitoring-dataset<br>
 Commuicated to IEEE Access<br>
 <b>Paer-3 <br>
 Communicateed to cognitive computing SCI9Q1)<br>
+<img width="1062" height="1307" alt="paper-3communicated" src="https://github.com/user-attachments/assets/31e7ae3b-55f7-435f-9022-0e94c045caff" />
+
 
