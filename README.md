@@ -1,4 +1,4 @@
-Paper-1 Scientific Reports( SCIE-Q1) Springer Nature
+Paper-1 Scientific Reports( SCIE-Q1) Springer Nature<br>
 https://www.nature.com/articles/s41598-025-06758-4
 Dataset-1 (GAN-input)
 https://ieee-dataport.org/documents/shrimpview-versatile-dataset-shrimp-detection-and-recognition
